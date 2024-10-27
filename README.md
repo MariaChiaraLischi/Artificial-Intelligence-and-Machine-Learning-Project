@@ -1,7 +1,10 @@
 # Artificial Intelligence and Machine Learning project - recommender systems
-- Lischi Maria Chiara (271281)
-- Pacielli Gabriele (267701)
-- Spadaccia Matteo (277141)
+This project was completed as part of the coursework for the course Artificial Intelligence and Machine Learning during the Bachelor’s degree program in Management and Computer Science at Luiss Guido Carli University.
+
+Project participants:
+- Lischi Maria Chiara
+- Pacielli Gabriele
+- Spadaccia Matteo
 
 ## Section 1) Introduction
 This work consists in the implementation of different recommender systems, made for a clothing store. Before deeping into the recommender systems, a large part of the project is dedicated to the Exploratory Data Analysis and visualization of the data.
