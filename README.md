@@ -7,7 +7,7 @@ Project participants:
 - Spadaccia Matteo
 
 ## Section 1) Introduction
-This work consists in the implementation of different recommender systems, made for a clothing store. Before deeping into the recommender systems, a large part of the project is dedicated to the Exploratory Data Analysis and visualization of the data.
+This work consists in the implementation of different recommender systems, made for a clothing store. Before deepening into the recommender systems, a large part of the project is dedicated to the Exploratory Data Analysis and visualization of the data.
 
 ## Section 2) Methods
 We worked over three different datasets, which we analyzed deeply through EDA.
